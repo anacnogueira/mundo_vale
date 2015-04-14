@@ -1,2 +1,2 @@
 # mundo_vale
-Projetoem cakephp para classificados de serviçoes
+Projeto em cakephp para classificados de serviçoes
